@@ -41,8 +41,7 @@ Install from VSIX:
 
 Or install via VsCode UI:
 
-![Install via VsCode extension UI:](screenshots/screienshot_2.png)
-
+![Install via VsCode extension UI:](screenshots/screenshot_2.png)
 
 ## Development
 
