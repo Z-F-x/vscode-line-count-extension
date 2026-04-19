@@ -34,15 +34,15 @@ You can customize the extension through VS Code settings:
 
 ## Installation
 
-1. Open VS Code
-2. Go to Extensions (Ctrl+Shift+X)
-3. Search for "Line Count Status Bar"
-4. Click Install
-
-Or install from VSIX:
+Install from VSIX:
 
 1. Download the `.vsix` file
 2. Run `code --install-extension line-count-statusbar-1.0.0.vsix`
+
+Or install via VsCode UI:
+
+![Install via VsCode extension UI:](screenshots/screienshot_2.png)
+
 
 ## Development
 
