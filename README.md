@@ -2,13 +2,15 @@
 
 A lightweight VS Code extension that displays the total line count of the current file in the status bar.
 
+![Line Count Status Bar](screenshots/screenshot.png)
+
 ## Features
 
-- 📊 Shows total line count in status bar
-- ⚙️ Configurable display format with icons
-- 📍 Configurable alignment (left/right)
-- 🔄 Real-time updates as you edit
-- 🪶 Lightweight and fast
+- Shows total line count in status bar
+- Configurable display format with icons
+- Configurable alignment (left/right)
+- Real-time updates as you edit
+- Lightweight and fast
 
 ## Configuration
 
